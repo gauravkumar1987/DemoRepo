@@ -6,3 +6,5 @@
 6. This is master 4th commit
 7. This is master 5th commit
 8. This is master 6th commit
+9. This is two 	  1st commit
+10.This is two 	  2nd commit
